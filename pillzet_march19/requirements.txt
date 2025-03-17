@@ -1,2 +1,5 @@
 gunicorn
 flask
+flask-wtf         # If you use forms
+flask-sqlalchemy  # If you use a database
+requests          
